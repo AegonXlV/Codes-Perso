@@ -1,0 +1,33 @@
+5 rotors nommés en chiffres romains
+	Q=>R
+	E=>F
+	V=>W
+	J=>K
+	Z=>A
+
+10 cables
+
+
+REALISATION
+
+	Choix de la config
+	Reconnaissances de lettres
+	Transformation
+	Affichage
+
+Choix de config = Cables tlinter
+
+
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+CJEKMFLGDQVZNTOWYHXUSPAIBR -> X
+AJDKSIRUXBLHWTMCQGZNPYFVOE -> S
+BDFHJLCPRTXVZNYEIWGAKMUSQO -> M
+
+YRUHQSLDPXNGOKMIEBFZCWVJAT
+
+H =>  QQIPESS
+E =>  FIRBDKZ
+L =>  LEJXSZR
+L =>    
+O =>  
